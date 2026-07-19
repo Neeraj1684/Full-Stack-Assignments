@@ -25,9 +25,9 @@ Each assignment is organized into its own directory, containing the respective s
 
 - [x] **Assignment 1:** Student Registration Form
 - [x] **Assignment 2:** Simple Login Authentication
-- [ ] **Assignment 3:** Online Student Result System
-- [ ] **Assignment 4:** Employee Salary Calculator
-- [ ] **Assignment 5:** Shopping Cart Application *(JDBC & MySQL)*
+- [x] **Assignment 3:** Online Student Result System
+- [x] **Assignment 4:** Employee Salary Calculator
+- [x] **Assignment 5:** Shopping Cart Application *(JDBC & MySQL)*
 - [ ] **Assignment 6:** Library Management System *(JDBC & MySQL)*
 - [ ] **Assignment 7:** Employee Management System *(JDBC & MySQL)*
 - [ ] **Assignment 8:** Online Feedback Management System *(JDBC & MySQL)*
